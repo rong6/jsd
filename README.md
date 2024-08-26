@@ -4,3 +4,6 @@
 ## 使用
 单击此按钮快捷部署：[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/rong6/jsd&project-name=jsd&repository-name=jsd)   
 注意：**Vercel默认域名已被墙，请自行绑定域名！**    
+
+## License
+本仓库遵循[MIT License](https://github.com/rong6/jsd/blob/main/LICENSE)。
